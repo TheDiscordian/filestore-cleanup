@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	API      = "/api/v0/"
+	API = "/api/v0/"
 )
 
 var (
